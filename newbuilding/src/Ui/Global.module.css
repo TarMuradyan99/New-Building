@@ -1,0 +1,35 @@
+.conteiner{
+    width: 100%;
+    height: max-content;
+    display: flex;
+    justify-content: center;
+    
+}
+.floors{
+    border: 1px solid black;
+
+   
+}
+.floors *{
+    padding: 17px;
+}
+.thirdfloors *{
+    border: 1px solid black;
+   font-size: 20px;
+   font-weight: bold;
+   background-color: red;
+}
+.secondfloors *{
+    border: 1px solid black;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: blue;
+}
+.firstfloors *{
+    border: 1px solid black;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(233, 164, 26);
+}
+
+
